@@ -1,7 +1,7 @@
 Config = {}
 
 -- Framework : 'esx' | 'qb' | 'qbox'
-Config.Framework = 'qb'
+Config.Framework = 'esx'
 -- ESXMode : 'old' | 'new'  (ignoré si Framework != 'esx')
 Config.ESXMode   = 'new'
 
